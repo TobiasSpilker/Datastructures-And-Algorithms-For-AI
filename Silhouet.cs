@@ -49,12 +49,6 @@ namespace Skyline
                 Console.WriteLine("h: " + silhouet.h);
             }
 
-            //sorteer deze punten op basis van de hoogtes
-            //dit bepaald welke "wegvallen"
-            //want in het ergste geval moeten alle punten blijven, anders 
-            //moeten sommige weg
-                //omdat je sorteert op hoogte van die punten
-                //gebruik je merge ssoort gvd
 
             #endregion
 
